@@ -1,0 +1,597 @@
+{
+  "2026-06-01": {
+    "action": "BUY",
+    "confidence": 0.68,
+    "reason": "Returns are strongly positive over both 5 and 20 days, and the ETF is well above its 20- and 50-day averages. The recent daily moves are mostly positive, supporting a move from cash to invested despite some short-term pullback risk.",
+    "input_tokens": 235,
+    "output_tokens": 170
+  },
+  "2026-06-02": {
+    "action": "HOLD",
+    "confidence": 0.72,
+    "reason": "The strong 20-day gain and position above both moving averages support staying invested. Recent daily returns are mostly positive, so the figures give no clear reason to exit; holding also avoids chasing an extended move.",
+    "input_tokens": 234,
+    "output_tokens": 150
+  },
+  "2026-06-03": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "The positive 5- and 20-day returns and price above both moving averages support staying invested. Recent gains are steady, though the sizable distance above the 50-day average argues against adding exposure.",
+    "input_tokens": 234,
+    "output_tokens": 115
+  },
+  "2026-06-04": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "The ETF has positive 5-day and 20-day returns and is well above both moving averages, supporting the existing invested position. The last two days were negative, but the mixed short-term pullback alone is not a strong signal to exit.",
+    "input_tokens": 234,
+    "output_tokens": 111
+  },
+  "2026-06-05": {
+    "action": "HOLD",
+    "confidence": 0.58,
+    "reason": "The sharp -4.80% day and -4.50% five-day return are concerning, but the 20-day return remains positive and the price is still above its 50-day average. The mixed signals favor keeping the current position rather than making a decisive switch based on the latest drop alone.",
+    "input_tokens": 234,
+    "output_tokens": 177
+  },
+  "2026-06-08": {
+    "action": "HOLD",
+    "confidence": 0.58,
+    "reason": "Signals are mixed: the 5-day return is negative and price is below its 20-day average, but the 20-day return is slightly positive and price remains above its 50-day average. The sharp recent drop adds risk, yet the data do not clearly outweigh the longer-term support enough to change the invested position.",
+    "input_tokens": 234,
+    "output_tokens": 169
+  },
+  "2026-06-09": {
+    "action": "HOLD",
+    "confidence": 0.59,
+    "reason": "The sharp 5-day decline and price below its 20-day average are concerning, but the 20-day return is only slightly negative and the price remains above its 50-day average. The signals are mixed, so keeping the current position avoids reacting to a volatile short-term move.",
+    "input_tokens": 234,
+    "output_tokens": 221
+  },
+  "2026-06-10": {
+    "action": "SELL",
+    "confidence": 0.68,
+    "reason": "The sharp 5-day loss and close 3.83% below the 20-day average indicate near-term weakness. Although the price remains above its 50-day average, the recent decline favors moving to cash.",
+    "input_tokens": 234,
+    "output_tokens": 170
+  },
+  "2026-06-11": {
+    "action": "HOLD",
+    "confidence": 0.69,
+    "reason": "Stay in cash: the 5-day return is negative and the ETF is below its 20-day average, while the recent rebound and position above the 50-day average are not enough to offset the elevated volatility.",
+    "input_tokens": 235,
+    "output_tokens": 115
+  },
+  "2026-06-12": {
+    "action": "HOLD",
+    "confidence": 0.66,
+    "reason": "The 5-day return is positive and price is well above the 50-day average, but the 20-day return is nearly flat and price is essentially at the 20-day average. Recent large daily moves add uncertainty, so the numbers do not give a clear enough entry signal to leave cash.",
+    "input_tokens": 235,
+    "output_tokens": 173
+  },
+  "2026-06-15": {
+    "action": "BUY",
+    "confidence": 0.63,
+    "reason": "Returns are positive over both 5 and 20 days, and the ETF is above its 20- and 50-day averages. Recent gains suggest improving momentum, though the choppy daily returns and 1.77% volatility warrant moderate confidence.",
+    "input_tokens": 235,
+    "output_tokens": 143
+  },
+  "2026-06-16": {
+    "action": "HOLD",
+    "confidence": 0.67,
+    "reason": "The 5-day and 20-day returns are positive, and the ETF is above both its 20-day and 50-day averages, supporting staying invested. High daily volatility and several large swings argue for caution.",
+    "input_tokens": 234,
+    "output_tokens": 107
+  },
+  "2026-06-17": {
+    "action": "HOLD",
+    "confidence": 0.62,
+    "reason": "Returns are positive over both 5 and 20 days, and the price is above its 50-day average. Being slightly below the 20-day average and recent choppy daily moves temper the outlook, but the mixed signals favor keeping the current invested position.",
+    "input_tokens": 234,
+    "output_tokens": 130
+  },
+  "2026-06-18": {
+    "action": "HOLD",
+    "confidence": 0.67,
+    "reason": "Returns are positive over both 5 and 20 days, and the ETF is above its 20- and 50-day averages. Recent daily returns are mixed and volatility is 1.89%, so there is not a clear signal to change the invested position.",
+    "input_tokens": 234,
+    "output_tokens": 119
+  },
+  "2026-06-22": {
+    "action": "HOLD",
+    "confidence": 0.65,
+    "reason": "The ETF is already held and has positive 5-day and 20-day returns, while trading above both its 20-day and 50-day averages. Recent daily moves are mixed and volatility is 1.89%, so the data support maintaining the position rather than making a change.",
+    "input_tokens": 234,
+    "output_tokens": 115
+  },
+  "2026-06-23": {
+    "action": "SELL",
+    "confidence": 0.62,
+    "reason": "The ETF is down 3.97% over five days and sits 1.85% below its 20-day average, with the latest day down 3.29%. Its position above the 50-day average and nearly flat 20-day return temper the bearish signal, but short-term weakness favors moving to cash.",
+    "input_tokens": 234,
+    "output_tokens": 196
+  },
+  "2026-06-24": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Remain in cash. The 5- and 20-day returns are negative, and the price is below its 20-day average. Although it remains above its 50-day average, the recent data do not provide a clear reason to enter given the volatility.",
+    "input_tokens": 235,
+    "output_tokens": 129
+  },
+  "2026-06-25": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Stay in cash. Recent returns are weak (-0.74% over 5 days and -1.68% over 20 days), and the ETF is 1.27% below its 20-day average. Being 2.24% above its 50-day average is a positive counterpoint, but daily volatility is 2.01%, so the signals are mixed.",
+    "input_tokens": 235,
+    "output_tokens": 143
+  },
+  "2026-06-26": {
+    "action": "HOLD",
+    "confidence": 0.72,
+    "reason": "Remain in cash. The 5-day and 20-day returns are negative, and the ETF is 2.44% below its 20-day average, indicating weak near-term momentum. Being slightly above its 50-day average is a counterpoint, but daily volatility is 2.02% and the recent gains have not offset the short-term decline.",
+    "input_tokens": 235,
+    "output_tokens": 94
+  },
+  "2026-06-29": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Stay in cash. Recent returns are negative (-1.88% over 5 days and -1.82% over 20 days), while the price is only slightly above its 20-day average (+0.08%). Being above the 50-day average (+2.88%) is a positive counterpoint, but 2.10% daily volatility argues for caution.",
+    "input_tokens": 235,
+    "output_tokens": 147
+  },
+  "2026-06-30": {
+    "action": "HOLD",
+    "confidence": 0.67,
+    "reason": "The 5-day return and position above both moving averages are positive, but the 20-day return is still slightly negative and daily volatility is high. With mixed signals, keep the current cash position.",
+    "input_tokens": 235,
+    "output_tokens": 149
+  },
+  "2026-07-01": {
+    "action": "HOLD",
+    "confidence": 0.66,
+    "reason": "Stay in cash. The ETF is above its 20-day and 50-day averages and has a positive 5-day return, but its 20-day return remains negative and recent daily moves are volatile and mixed. The signals are not strong enough to justify entering tomorrow.",
+    "input_tokens": 235,
+    "output_tokens": 129
+  },
+  "2026-07-02": {
+    "action": "HOLD",
+    "confidence": 0.67,
+    "reason": "Stay in cash. The 20-day return is -4.14% and price is below its 20-day average; recent daily moves are mixed and volatility is 2.19%. Being above the 50-day average is a counterpoint, but not enough to justify entering.",
+    "input_tokens": 235,
+    "output_tokens": 133
+  },
+  "2026-07-06": {
+    "action": "HOLD",
+    "confidence": 0.66,
+    "reason": "The 5-day return is positive and the ETF is above its 20- and 50-day averages, but the 20-day return remains negative and daily volatility is high. The mixed recent returns do not give a strong enough signal to leave cash.",
+    "input_tokens": 235,
+    "output_tokens": 132
+  },
+  "2026-07-07": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Remain in cash. The 5-day return is negative, and the ETF is below both its 20-day and 50-day averages, while recent daily moves are volatile. The modestly positive 20-day return is not enough to offset those short-term weakness signals.",
+    "input_tokens": 235,
+    "output_tokens": 122
+  },
+  "2026-07-08": {
+    "action": "HOLD",
+    "confidence": 0.78,
+    "reason": "Stay in cash. The 5-day return is sharply negative, the 20-day return is slightly negative, and the ETF is below both its 20-day and 50-day averages. The mixed daily moves and elevated volatility do not provide a clear basis to enter tomorrow.",
+    "input_tokens": 235,
+    "output_tokens": 124
+  },
+  "2026-07-09": {
+    "action": "HOLD",
+    "confidence": 0.64,
+    "reason": "The 20-day return is positive and the ETF is above both its 20-day and 50-day averages, but the 5-day return is slightly negative and daily volatility is high. With the current position in cash, the mixed short-term signals favor staying out for now.",
+    "input_tokens": 235,
+    "output_tokens": 135
+  },
+  "2026-07-10": {
+    "action": "BUY",
+    "confidence": 0.57,
+    "reason": "Returns are positive over both 5 and 20 days, and the price is above its 20- and 50-day averages, favoring entry. Confidence is modest because daily volatility is elevated and recent returns are choppy.",
+    "input_tokens": 235,
+    "output_tokens": 133
+  },
+  "2026-07-13": {
+    "action": "SELL",
+    "confidence": 0.64,
+    "reason": "Returns are negative over both 5 and 20 days, and the price is below its 20-day and 50-day averages. Recent daily moves are mixed with elevated volatility, so the trend is weak without a clear reversal signal.",
+    "input_tokens": 234,
+    "output_tokens": 114
+  },
+  "2026-07-14": {
+    "action": "HOLD",
+    "confidence": 0.64,
+    "reason": "Stay in cash: the 5-day return is positive and price is above the 50-day average, but the 20-day return is slightly negative and price remains below the 20-day average. Recent daily swings are large relative to the modest gains.",
+    "input_tokens": 235,
+    "output_tokens": 127
+  },
+  "2026-07-15": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Stay in cash. The 5-day return is positive, but the 20-day return remains negative and the price is slightly below its 20-day average. With volatility elevated and the price near its 50-day average, the signals are mixed.",
+    "input_tokens": 235,
+    "output_tokens": 135
+  },
+  "2026-07-16": {
+    "action": "HOLD",
+    "confidence": 0.78,
+    "reason": "Returns are negative over both 5 and 20 days, and the ETF is below its 20-day and 50-day averages. With daily volatility at 1.64%, the data does not give a clear reason to move from cash into the market.",
+    "input_tokens": 235,
+    "output_tokens": 111
+  },
+  "2026-07-17": {
+    "action": "HOLD",
+    "confidence": 0.78,
+    "reason": "Remain in cash. The 5-day and 20-day returns are negative, and the ETF is below both its 20-day and 50-day averages. The last several sessions are also net negative, so the data do not show a convincing reason to enter tomorrow.",
+    "input_tokens": 235,
+    "output_tokens": 117
+  },
+  "2026-07-20": {
+    "action": "HOLD",
+    "confidence": 0.78,
+    "reason": "Stay in cash. The 5- and 20-day returns are negative, and the ETF is below both its 20- and 50-day averages. Recent daily moves are mixed, but they do not yet offset the weak trend.",
+    "input_tokens": 235,
+    "output_tokens": 108
+  },
+  "2026-07-21": {
+    "action": "HOLD",
+    "confidence": 0.72,
+    "reason": "Remain in cash: the 5- and 20-day returns are negative, and the price is below both its 20- and 50-day averages. Recent daily moves are mixed, so there is not a clear reversal signal.",
+    "input_tokens": 235,
+    "output_tokens": 114
+  },
+  "2026-07-22": {
+    "action": "HOLD",
+    "confidence": 0.72,
+    "reason": "Stay in cash. The 5-day and 20-day returns are negative, and the price is below both its 20-day and 50-day averages. Recent daily returns are mixed and volatility is 1.43%, so the numbers do not offer a clear reason to enter tomorrow.",
+    "input_tokens": 235,
+    "output_tokens": 123
+  },
+  "2026-07-23": {
+    "action": "HOLD",
+    "confidence": 0.78,
+    "reason": "Remain in cash. The 5-day and 20-day returns are negative, and the ETF is below both its 20-day and 50-day averages. Recent daily moves are mixed with elevated volatility, offering no clear signal to enter.",
+    "input_tokens": 235,
+    "output_tokens": 102
+  },
+  "2026-07-24": {
+    "action": "HOLD",
+    "confidence": 0.82,
+    "reason": "Stay in cash. The 5-day and 20-day returns are negative, and the ETF is below both its 20-day and 50-day averages. Recent daily moves are mixed, with 1.49% volatility, so there is not a clear basis to enter.",
+    "input_tokens": 235,
+    "output_tokens": 146
+  },
+  "2026-07-27": {
+    "action": "HOLD",
+    "confidence": 0.78,
+    "reason": "Remain in cash. The 5-day and 20-day returns are negative, and the ETF is below both its 20-day and 50-day averages. Recent daily returns are mostly negative, so the data do not support entering tomorrow.",
+    "input_tokens": 235,
+    "output_tokens": 156
+  },
+  "2026-07-28": {
+    "action": "HOLD",
+    "confidence": 0.86,
+    "reason": "Remain in cash. Returns are negative over both 5 and 20 days, the ETF is well below its 20- and 50-day averages, and 8 of the last 10 sessions were down.",
+    "input_tokens": 235,
+    "output_tokens": 115
+  },
+  "2026-07-29": {
+    "action": "HOLD",
+    "confidence": 0.84,
+    "reason": "The ETF is already in cash, and the data show a strong downtrend: returns are negative over 5 and 20 days, price is well below both moving averages, and 8 of the last 10 days were negative. Staying in cash avoids entering against that momentum.",
+    "input_tokens": 235,
+    "output_tokens": 129
+  },
+  "2026-07-30": {
+    "action": "HOLD",
+    "confidence": 0.78,
+    "reason": "Stay in cash. The 5-day and 20-day returns are negative, and the price is below both its 20-day and 50-day averages. The latest +3.30% day may be a rebound, but the overall trend remains weak.",
+    "input_tokens": 235,
+    "output_tokens": 108
+  },
+  "2026-07-31": {
+    "action": "HOLD",
+    "confidence": 0.72,
+    "reason": "Stay in cash. The 5-day return is positive, but the 20-day return remains negative and the ETF is below both its 20-day and 50-day averages. With daily volatility at 1.50%, the recent bounce alone is not a strong enough signal to enter.",
+    "input_tokens": 235,
+    "output_tokens": 124
+  },
+  "2026-08-03": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Stay in cash. The recent 5-day gain and position just above the 20-day average are encouraging, but the 20-day return remains negative and the price is below the 50-day average. With daily volatility at 1.52%, the mixed signals do not yet justify entering.",
+    "input_tokens": 235,
+    "output_tokens": 136
+  },
+  "2026-08-04": {
+    "action": "BUY",
+    "confidence": 0.61,
+    "reason": "The ETF is above its 20- and 50-day averages, and its 5-day return is strongly positive. Recent gains support entering despite elevated daily volatility.",
+    "input_tokens": 235,
+    "output_tokens": 202
+  },
+  "2026-08-05": {
+    "action": "HOLD",
+    "confidence": 0.62,
+    "reason": "The ETF remains above its 20-day and 50-day averages, and its 5-day return is strong, so the data do not clearly support exiting. However, the 20-day return is modest and daily volatility is elevated, making a fresh buy less compelling. Keep the current position.",
+    "input_tokens": 234,
+    "output_tokens": 145
+  },
+  "2026-08-06": {
+    "action": "HOLD",
+    "confidence": 0.62,
+    "reason": "The strong 5-day gain and price above both moving averages support staying invested, but the negative 20-day return and 1.63% daily volatility make a fresh buy less compelling. Keep the current position.",
+    "input_tokens": 234,
+    "output_tokens": 211
+  },
+  "2026-08-07": {
+    "action": "HOLD",
+    "confidence": 0.67,
+    "reason": "The position is already invested, and the recent +5.09% five-day return and price above both moving averages support staying in. The nearly flat 20-day return and 1.65% daily volatility argue against increasing exposure based on this data alone.",
+    "input_tokens": 234,
+    "output_tokens": 142
+  },
+  "2026-08-10": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "The position has positive 5-day and 20-day returns and is above both its 20-day and 50-day averages, supporting staying invested. Recent daily returns are mixed and volatility is 1.59%, so the evidence does not strongly justify adding exposure.",
+    "input_tokens": 234,
+    "output_tokens": 128
+  },
+  "2026-08-11": {
+    "action": "HOLD",
+    "confidence": 0.58,
+    "reason": "You are already invested, and the position remains above both the 20-day and 50-day averages. Recent returns are mixed, with a negative 5-day return and a nearly flat 20-day return, so the data does not show a strong reason to change position.",
+    "input_tokens": 234,
+    "output_tokens": 233
+  },
+  "2026-08-12": {
+    "action": "HOLD",
+    "confidence": 0.64,
+    "reason": "The ETF is already held, and its 5-day and 20-day returns are positive while it remains above both moving averages. Recent daily moves are mixed and volatility is 1.58%, so the data supports keeping the position rather than making a stronger move.",
+    "input_tokens": 234,
+    "output_tokens": 119
+  },
+  "2026-08-13": {
+    "action": "HOLD",
+    "confidence": 0.64,
+    "reason": "You are already invested, and the positive 5- and 20-day returns and price above both moving averages support staying invested. Recent gains are uneven, so holding rather than adding exposure is cautious.",
+    "input_tokens": 234,
+    "output_tokens": 132
+  },
+  "2026-08-14": {
+    "action": "HOLD",
+    "confidence": 0.72,
+    "reason": "The ETF is in a strong uptrend, with positive 5- and 20-day returns and trading above both moving averages. Recent daily moves are mixed and volatility is 1.50%, but the figures do not signal a clear reason to exit an existing position.",
+    "input_tokens": 234,
+    "output_tokens": 76
+  },
+  "2026-08-17": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "The position is already invested, and returns remain positive: +1.25% over 5 days and +4.86% over 20 days. The ETF is above both its 20-day and 50-day averages. Recent daily moves are mixed, with 1.50% daily volatility, so holding rather than adding or exiting is prudent.",
+    "input_tokens": 234,
+    "output_tokens": 140
+  },
+  "2026-08-18": {
+    "action": "HOLD",
+    "confidence": 0.58,
+    "reason": "The 20-day return and position above both moving averages remain positive, while the recent five-day decline and sharp latest-day loss signal weakening momentum. With mixed signals, keep the current invested position.",
+    "input_tokens": 234,
+    "output_tokens": 128
+  },
+  "2026-08-19": {
+    "action": "HOLD",
+    "confidence": 0.67,
+    "reason": "The 5-day return is negative, but the 20-day return is positive and the price remains above both moving averages. With mixed short-term momentum and no clear trend breakdown, keeping the current invested position is reasonable.",
+    "input_tokens": 234,
+    "output_tokens": 105
+  },
+  "2026-08-20": {
+    "action": "HOLD",
+    "confidence": 0.58,
+    "reason": "Signals are mixed: the 5-day return is negative and price is slightly below its 50-day average, but the 20-day return is positive and price remains above its 20-day average. Given the existing invested position, the modest weakness does not clearly justify switching to cash.",
+    "input_tokens": 234,
+    "output_tokens": 197
+  },
+  "2026-08-21": {
+    "action": "HOLD",
+    "confidence": 0.58,
+    "reason": "The 5-day return is negative, but the 20-day return remains positive and the price is slightly above both moving averages. With mixed, choppy recent returns, the data does not give a strong reason to change the invested position.",
+    "input_tokens": 234,
+    "output_tokens": 141
+  },
+  "2026-08-24": {
+    "action": "SELL",
+    "confidence": 0.63,
+    "reason": "Recent momentum is weak: the 5-day return is -3.23%, most of the last 10 days were negative, and the price is below both moving averages. The positive 20-day return tempers the signal, but the short-term weakness favors moving to cash.",
+    "input_tokens": 234,
+    "output_tokens": 208
+  },
+  "2026-08-25": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Stay in cash. The recent 5-day return is negative, and the price is slightly below both the 20- and 50-day averages. The positive 20-day return is a counterpoint, but the figures do not yet give a clear reason to enter.",
+    "input_tokens": 235,
+    "output_tokens": 132
+  },
+  "2026-08-26": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "The 20-day return is positive, but the 5-day return is negative and the price is slightly below both moving averages. Given the mixed, choppy recent data and current cash position, staying in cash is prudent.",
+    "input_tokens": 235,
+    "output_tokens": 122
+  },
+  "2026-08-27": {
+    "action": "BUY",
+    "confidence": 0.61,
+    "reason": "Returns are positive over 5 and 20 days, and the price is above both its 20-day and 50-day averages. Recent daily moves have been choppy, so the upward signals are not especially strong.",
+    "input_tokens": 235,
+    "output_tokens": 206
+  },
+  "2026-08-28": {
+    "action": "HOLD",
+    "confidence": 0.61,
+    "reason": "The 20-day return is positive and the price remains above its 50-day average, while the 5-day return is modestly positive. Being slightly below the 20-day average and recent choppy trading argue against adding exposure, but not strongly enough to exit the current position.",
+    "input_tokens": 234,
+    "output_tokens": 132
+  },
+  "2026-08-31": {
+    "action": "HOLD",
+    "confidence": 0.62,
+    "reason": "Returns are positive over both 5 and 20 days, and the price remains above its 50-day average. Being slightly below the 20-day average and the choppy recent daily returns argue against adding, but do not provide a strong reason to exit an existing position.",
+    "input_tokens": 234,
+    "output_tokens": 127
+  },
+  "2026-09-01": {
+    "action": "SELL",
+    "confidence": 0.65,
+    "reason": "The ETF is down over both 5 and 20 days and is below its 20-day and 50-day averages. The recent daily moves are mixed, but the broader numbers favor moving to cash.",
+    "input_tokens": 234,
+    "output_tokens": 122
+  },
+  "2026-09-02": {
+    "action": "HOLD",
+    "confidence": 0.78,
+    "reason": "Stay in cash. The 5-day and 20-day returns are negative, and the ETF is below both its 20-day and 50-day averages. Recent daily moves are mixed, with volatility at 0.81%, so the data does not support entering tomorrow.",
+    "input_tokens": 235,
+    "output_tokens": 118
+  },
+  "2026-09-03": {
+    "action": "HOLD",
+    "confidence": 0.62,
+    "reason": "Stay in cash. Recent performance is mixed: the 5-day return is negative and price is essentially at its 20-day average, while the 20-day return and position versus the 50-day average are modestly positive. With daily volatility at 0.85%, the numbers do not give a clear enough signal to enter tomorrow.",
+    "input_tokens": 235,
+    "output_tokens": 90
+  },
+  "2026-09-04": {
+    "action": "HOLD",
+    "confidence": 0.64,
+    "reason": "Keep the current cash position. The 5-day return is slightly positive and the ETF is above both moving averages, but the 20-day return remains negative and the recent daily moves are mixed.",
+    "input_tokens": 235,
+    "output_tokens": 163
+  },
+  "2026-09-08": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Stay in cash. Returns are mixed: the 5-day return is slightly positive, but the 20-day return is negative. Being modestly above both moving averages is mildly supportive, yet not enough to outweigh the mixed trend given daily volatility of 0.81%.",
+    "input_tokens": 235,
+    "output_tokens": 159
+  },
+  "2026-09-09": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Stay in cash. The 5-day return is positive, but the 20-day return is slightly negative and the price is below its 20-day average. Being above the 50-day average is a counterpoint, but the mixed short-term signals do not strongly support entering.",
+    "input_tokens": 235,
+    "output_tokens": 131
+  },
+  "2026-09-10": {
+    "action": "HOLD",
+    "confidence": 0.72,
+    "reason": "Stay in cash: the 20-day return is negative and the price is below both its 20-day and 50-day averages. The near-flat 5-day return and mixed recent daily moves do not provide a strong reason to enter.",
+    "input_tokens": 235,
+    "output_tokens": 112
+  },
+  "2026-09-11": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "Stay in cash. Returns are negative over both 5 and 20 days, and the ETF is slightly below its 20-day average. Its position above the 50-day average and mixed recent daily returns are not enough to outweigh the weak shorter-term trend.",
+    "input_tokens": 235,
+    "output_tokens": 117
+  },
+  "2026-09-14": {
+    "action": "SELL",
+    "confidence": 0.68,
+    "reason": "Stay in cash: both 5-day and 20-day returns are negative, and the price is below its 20-day and 50-day averages. Recent daily moves are mixed, so confidence is moderate.",
+    "input_tokens": 235,
+    "output_tokens": 109
+  },
+  "2026-09-15": {
+    "action": "HOLD",
+    "confidence": 0.78,
+    "reason": "Remain in cash. The 5-day and 20-day returns are negative, and the ETF is below both its 20-day and 50-day averages. These figures do not indicate a clear reason to enter tomorrow.",
+    "input_tokens": 235,
+    "output_tokens": 98
+  },
+  "2026-09-16": {
+    "action": "HOLD",
+    "confidence": 0.76,
+    "reason": "The 5-day and 20-day returns are negative, and the price is below both its 20-day and 50-day averages. With no clear positive trend in the recent daily returns, staying in cash is the cautious choice.",
+    "input_tokens": 235,
+    "output_tokens": 110
+  },
+  "2026-09-17": {
+    "action": "HOLD",
+    "confidence": 0.63,
+    "reason": "The ETF is modestly above its 20- and 50-day averages and has a positive 5-day return, but its 20-day return is nearly flat and the last 10 days were choppy. With no strong signal to enter, keep the current cash position.",
+    "input_tokens": 235,
+    "output_tokens": 155
+  },
+  "2026-09-18": {
+    "action": "BUY",
+    "confidence": 0.61,
+    "reason": "Returns are positive over both 5 and 20 days, and the ETF is above its 20- and 50-day averages, supporting a cautious move from cash into the market. Recent daily moves are choppy and volatility is 0.84%, so confidence is moderate.",
+    "input_tokens": 235,
+    "output_tokens": 150
+  },
+  "2026-09-21": {
+    "action": "HOLD",
+    "confidence": 0.69,
+    "reason": "Stay invested: the 5-day and 20-day returns are positive, and the price is above both its 20-day and 50-day averages. The latest gains are strong but daily volatility is 1.04%, so holding is more cautious than adding exposure.",
+    "input_tokens": 234,
+    "output_tokens": 139
+  },
+  "2026-09-22": {
+    "action": "HOLD",
+    "confidence": 0.69,
+    "reason": "The ETF remains above its 20-day and 50-day averages, with positive 5-day and 20-day returns. Recent gains are strong, though daily volatility and mixed short-term moves argue against adding exposure. Since you are already invested, hold.",
+    "input_tokens": 234,
+    "output_tokens": 73
+  },
+  "2026-09-23": {
+    "action": "HOLD",
+    "confidence": 0.67,
+    "reason": "The position is already invested, and returns are positive over both 5 and 20 days, with the price above its 20- and 50-day averages. Recent daily moves are mixed and volatility is 1.04%, so the data do not clearly justify changing positions.",
+    "input_tokens": 234,
+    "output_tokens": 132
+  },
+  "2026-09-24": {
+    "action": "HOLD",
+    "confidence": 0.73,
+    "reason": "The ETF is already held, has positive 5-day and 20-day returns, and is above both its 20-day and 50-day averages. Recent daily moves are mixed, so holding is preferable to adding or exiting based only on these figures.",
+    "input_tokens": 234,
+    "output_tokens": 120
+  },
+  "2026-09-25": {
+    "action": "HOLD",
+    "confidence": 0.66,
+    "reason": "Returns are positive and the ETF is above both moving averages, supporting the current invested position. Recent daily moves are mixed, so the data do not provide a strong reason to change it.",
+    "input_tokens": 234,
+    "output_tokens": 124
+  },
+  "2026-09-28": {
+    "action": "HOLD",
+    "confidence": 0.68,
+    "reason": "The 5-day return is mildly negative, but the 20-day return is positive and the ETF is above both its 20-day and 50-day averages. The mixed but generally positive picture does not give a strong reason to exit an existing position.",
+    "input_tokens": 234,
+    "output_tokens": 108
+  },
+  "2026-09-29": {
+    "action": "HOLD",
+    "confidence": 0.62,
+    "reason": "The 20-day return is positive and the price is above both moving averages, while the recent 5-day return is negative. The mixed signals support keeping the current position rather than making a change.",
+    "input_tokens": 234,
+    "output_tokens": 115
+  },
+  "2026-09-30": {
+    "action": "HOLD",
+    "confidence": 0.63,
+    "reason": "The 20-day return and position above both moving averages indicate an ongoing positive trend, while the slightly negative 5-day return suggests some near-term softness. With the current position invested, the mixed short-term signal supports holding rather than switching.",
+    "input_tokens": 234,
+    "output_tokens": 105
+  }
+}
